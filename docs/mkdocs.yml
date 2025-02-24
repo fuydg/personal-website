@@ -1,5 +1,5 @@
 site_name: 小猫的个人网站
-site_url: https://mydomain.org/mysite
+site_url: https://nry2025.xyz
 theme:
     name: material
     language: zh
@@ -20,9 +20,6 @@ theme:
       accent: teal
       
 extra:
-  generator: false
-  
-extra:
   consent:
     actions:
       - accept
@@ -31,3 +28,5 @@ extra:
       同义词隐私政策即表示同意我们使用曲奇收集您的部分信息
 
 copyright: 版权所有 &copy; 2025 小猫小猫
+
+repo_url: https://github.com/fuydg/personal-website
